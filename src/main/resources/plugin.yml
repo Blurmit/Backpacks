@@ -1,0 +1,13 @@
+name: BackPacks
+version: '${project.version}'
+main: me.blurmit.backpacks.BackPacks
+api-version: 1.13
+authors: [ Blurmit ]
+description: A plugin that gives players backpacks!
+website: https://blurmit.ml
+commands:
+  backpack:
+    description: Opens the players backpack!
+permissions:
+  backpacks.use:
+    description: Use permission for backpacks
