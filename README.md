@@ -1,5 +1,5 @@
 # Backpacks
-A plugin that adds a backpack for each player on the server!
+A plugin that adds a backpack to your server!
 
 ## Basic Intallation:
 * Download the the jar, found [here](https://github.com/Blurmit/Backpacks/releases).
